@@ -8,10 +8,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NightMare33133&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing%20%F0%9F%8C%B1-00f5ff?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing%20%F0%9F%8C%B1-0284c7?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Identity-Veteran%20Otaku%20%F0%9F%8C%B8-ff69b4?style=flat-square" alt="Identity" />
   <img src="https://img.shields.io/badge/Gaming-HoYoverse%20Fan%20%E2%9C%A8-a855f7?style=flat-square" alt="Gaming" />
-  <img src="https://img.shields.io/badge/Vibe-Coding%20with%20Anime%20OST%20%F0%9F%8E%B5-00ff88?style=flat-square" alt="Vibe" />
+  <img src="https://img.shields.io/badge/Vibe-Coding%20with%20Anime%20OST%20%F0%9F%8E%B5-10b981?style=flat-square" alt="Vibe" />
 </p>
 
 </div>
