@@ -3,25 +3,30 @@
 # 💫 StarLight (NightMare33133)
 
 <a href="https://github.com/NightMare33133">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+StarLight+%F0%9F%91%8B;Continuous+Learner+%26+Code+Explorer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Just+having+fun+building+things+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+StarLight+%F0%9F%91%8B;Anime+Lover+%26+Veteran+Otaku+%F0%9F%8C%B8;HoYoverse+Player+(Genshin+%C2%B7+HSR+%C2%B7+ZZZ+%C2%B7+HI3)+%F0%9F%8E%AE;Coding+with+Anime+OST+on+Repeat+%F0%9F%8E%A7;Exploring+Full-Stack+%26+Agentic+AI+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NightMare33133&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-00f5ff?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Vibe-Coding%20with%20LoFi-00ff88?style=flat-square" alt="Vibe" />
+  <img src="https://img.shields.io/badge/Identity-Veteran%20Otaku%20%F0%9F%8C%B8-ff69b4?style=flat-square" alt="Identity" />
+  <img src="https://img.shields.io/badge/Gaming-HoYoverse%20Fan%20%E2%9C%A8-a855f7?style=flat-square" alt="Gaming" />
+  <img src="https://img.shields.io/badge/Vibe-Coding%20with%20Anime%20OST%20%F0%9F%8E%B5-00ff88?style=flat-square" alt="Vibe" />
 </p>
 
 </div>
 
 ---
 
-### 🌱 About Me
+### 🌸 About Me
 
-- 💻 **全栈探索中**：正在折腾 Python、Java、Web 前端与 Linux，保持持续输入与实践。
-- 🤖 **AI 爱好者**：对大模型应用、智能体工作流（Agentic AI）充满好奇，边学边做中。
-- 🎧 **日常状态**：Coffee + 随机 Lo-Fi 音乐 = 一整天的沉浸敲代码时光。
-- 🎯 **座右铭**：保持好奇，慢慢变强，每天进步一点点！
+- 📺 **老二次元灵魂**：热衷各类动漫与二次元文化，写代码时的专属心流 BGM 是各种 **Anime OST** 循环单曲！
+- 🎮 **米家忠实旅行者 / 开拓者 / 绳匠 / 舰长**：
+  - 🌌 《原神》（Genshin Impact）
+  - 🚂 《崩坏：星穹铁道》（Honkai: Star Rail）
+  - 📼 《绝区零》（Zenless Zone Zero）
+  - ⚔️ 《崩坏3》（Honkai Impact 3rd）
+- 💻 **技术探索**：正在折腾 Python、Java、Web 前端与当下好玩的智能体（Agentic AI）应用。
+- 🎯 **愿望清单**：抽卡小保底永不歪，代码编译一次过，每天开心 coding！✨
 
 ---
 
@@ -46,7 +51,8 @@
 ---
 
 <div align="center">
-  <sub>Stay humble, stay curious. Thanks for stopping by! 💙</sub>
+  <sub>May this journey lead us starward. 愿此行，终抵群星 🌠</sub>
 </div>
+
 
 
