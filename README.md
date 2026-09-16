@@ -3,7 +3,7 @@
 # 💫 StarLight (NightMare33133)
 
 <a href="https://github.com/NightMare33133">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+StarLight+%F0%9F%91%8B;Anime+Lover+%26+Veteran+Otaku+%F0%9F%8C%B8;HoYoverse+Player+(Genshin+%C2%B7+HSR+%C2%B7+ZZZ+%C2%B7+HI3)+%F0%9F%8E%AE;Coding+with+Anime+OST+on+Repeat+%F0%9F%8E%A7;Exploring+Full-Stack+%26+Agentic+AI+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+StarLight+%F0%9F%91%8B;Continuous+Learner+%26+Code+Explorer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Just+having+fun+building+things+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,7 +26,7 @@
   - 📼 《绝区零》（Zenless Zone Zero）
   - ⚔️ 《崩坏3》（Honkai Impact 3rd）
 - 💻 **技术探索**：正在折腾 Python、Java、Web 前端与当下好玩的智能体（Agentic AI）应用。
-- 🎯 **愿望清单**：抽卡小保底永不歪，代码编译一次过，每天开心 coding！✨
+- 🍧 **Slogan**：八奈见杏菜世界第一可爱！💙
 
 ---
 
