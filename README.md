@@ -31,6 +31,16 @@
 
 ---
 
+### 🎓 Education / 院校背景
+
+- 🏛️ **香港城市大学（东莞）** · *City University of Hong Kong (Dongguan)*
+  - 🎓 **硕士** · 商务资讯系统（金融科技方向） | *MSc Business Information Systems (FinTech Stream)*
+  - 🤝 **联合培养** · 与 **复旦大学** (*Fudan University*) 联合培养
+- 🏛️ **福州大学** · *Fuzhou University*（国家“双一流”建设高校 / 211工程）
+  - 🎓 **学士** · 计算机科学与技术 | *B.Eng. in Computer Science and Technology*
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
